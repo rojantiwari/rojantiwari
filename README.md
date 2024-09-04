@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rojan Tiwari</h1>
 <h3 align="center">A Passionate Backend developer from Nepal</h3>
-<img src="https://wakatime.com/badge/user/018ba334-cda7-45d8-829a-d92c3bd182d1.svg" height="25"/>
+<!-- <img src="https://wakatime.com/badge/user/018ba334-cda7-45d8-829a-d92c3bd182d1.svg" height="25"/> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
